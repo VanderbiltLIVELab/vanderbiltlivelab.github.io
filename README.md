@@ -1,2 +1,2 @@
-# weretere.github.io
+# vanderbiltlivelab.github.io
 Personal Website for Richard Paris
