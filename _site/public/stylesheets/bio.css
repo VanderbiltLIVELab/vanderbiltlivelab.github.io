@@ -1,0 +1,79 @@
+body {
+    width: 100%;
+    height: 100vh;
+    overflow-wrap: break-word;
+    background: white;
+    /* Old browsers */
+    background: linear-gradient(to top, white 50%, white 50%);
+    background-size: 100% 200%;
+    background-position: bottom left;
+    transition:all 1.2s ease;
+    overflow: hidden;
+}
+
+#bio-nav-img {
+    max-width: 200px;
+    max-height: 100px;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 0;
+    padding: 0;
+}
+
+a.nav {
+    color: black;
+    margin-left: 35px;
+    padding-top: 10px;
+}
+
+a.nav {
+    color: black;
+}
+
+/*SAME AS HOME HEADER EXCEPT OPACITY OF 1*/
+#bio-header {
+    font-family: 'Heebo', sans-serif;
+    font-size: 1rem;
+}
+
+#bio-header .col {
+    margin: 0 15px;
+}
+
+#bio-header a:hover {
+    text-decoration: none;
+}
+
+#bio-content {
+    overflow: hidden;
+    width: 80%;
+    font-size: 1.2rem;
+    padding-left: 30px;
+    padding-top: 30px;
+ }
+
+#bio-content .row {
+    margin-top: 30px;
+}
+
+#one {
+    color: red;
+}
+
+#two {
+    color: deepskyblue;
+}
+
+#three {
+    color: orchid;
+}
+
+#four {
+    color: green;
+}
+
+.colors {
+    color: darkslategray;
+    font-size: 3rem;
+    align-self: center;
+}
